@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=120&section=header" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%3C+Hello+World+%2F%3E;I'm+Nusaiba+Sarwar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+REST+APIs+%7C+Databases;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%3C+Hello+World+%2F%3E;I'm+Nusaiba+Sarwar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
