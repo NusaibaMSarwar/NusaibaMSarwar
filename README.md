@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=120&section=header" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%8C%9F+Nusaiba+Sarwar;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%A1+MERN+Stack+Specialist;%F0%9F%8E%AF+Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%3C+Hello+World+%2F%3E;I'm+Nusaiba+Sarwar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+REST+APIs+%7C+Databases;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
 <h3 align="center">👋 Hey there! I'm Nusaiba Sarwar</h3>
 <h4 align="center">Full Stack Web Developer | Building Modern Web Applications</h4>
 
