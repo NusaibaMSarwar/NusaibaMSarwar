@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nusaiba+Sarwar;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%8C%9F+Nusaiba+Sarwar;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%A1+MERN+Stack+Specialist;%F0%9F%8E%AF+Code.+Create.+Innovate." alt="Typing SVG" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <h3 align="center">👋 Hey there! I'm Nusaiba Sarwar</h3>
