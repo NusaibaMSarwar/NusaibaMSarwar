@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nusaiba%20Sarwar&fontSize=60&animation=fadeIn&fontAlignY=35)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nusaiba+Sarwar;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <h3 align="center">👋 Hey there! I'm Nusaiba Sarwar</h3>
 <h4 align="center">Full Stack Web Developer | Building Modern Web Applications</h4>
