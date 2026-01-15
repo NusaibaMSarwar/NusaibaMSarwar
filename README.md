@@ -9,7 +9,7 @@
 
 - 🚀 Full Stack Web Developer specializing in MERN stack
 - 💻 Passionate about creating responsive and user-friendly web applications
-- 🌱 Currently mastering React and Node.js backend development
+- 🌱 Currently mastering React, Node.js, and database management
 - 🎯 Building real-world projects to strengthen my development skills
 - 📫 Reach me at: **nusaibamdsarwar@gmail.com**
 
@@ -21,7 +21,8 @@
 - 🍳 **Recipe Website** - Full stack recipe sharing platform
 - 💼 **TaskFlow Pricing** - Modern pricing page with animations
 - 🛒 **E-commerce Website** - Full-featured online shopping experience
-- 📄 Learning backend development with **Node.js & Express**
+- 🔌 Developing **REST APIs** with Node.js & Express
+- 🗄️ Working with **MongoDB** and **MySQL** databases
 
 ---
 
@@ -32,16 +33,24 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -64,10 +73,11 @@
 ## 💡 What I'm Learning
 
 - 🔥 Advanced React concepts (Hooks, Context API, State Management)
-- 🗄️ MongoDB for database management
+- 🗄️ Database design with MongoDB & MySQL
 - 🔐 Authentication & Authorization with JWT
-- 🎨 Modern UI frameworks and libraries
+- 🎨 Modern UI with Tailwind CSS
 - 🚀 RESTful API design and development
+- 🔧 Server-side development with Node.js & Express
 
 ---
 
