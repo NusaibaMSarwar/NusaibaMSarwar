@@ -18,9 +18,6 @@
 ## 🚀 Current Activities
 
 - ⚛️ Building dynamic applications with **React**
-- 🍳 **Recipe Website** - Full stack recipe sharing platform
-- 💼 **TaskFlow Pricing** - Modern pricing page with animations
-- 🛒 **E-commerce Website** - Full-featured online shopping experience
 - 🔌 Developing **REST APIs** with Node.js & Express
 - 🗄️ Working with **MongoDB** and **MySQL** databases
 
