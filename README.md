@@ -24,7 +24,7 @@
 const nusaiba = {
     location: "Chattogram, Bangladesh 🇧🇩",
     role: "Full Stack Web Developer",
-    currentFocus: ["MERN Stack", "REST APIs", "Database Design"],
+    currentFocus: ["Full Stack", "REST APIs", "Database Design"],
     funFact: "I turn ☕ into </code>",
     motto: "Debug it till you make it! 🐛➡️✨",
     lifeGoal: "Build products that make a difference 🚀"
@@ -39,15 +39,7 @@ const nusaiba = {
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎯 Building
-- 🍳 **Recipe Website** - Recipe sharing platform
-- 💼 **TaskFlow Pricing** - Animated pricing page
-- 🛒 **E-commerce Site** - Full stack shopping experience
-
-</td>
-<td width="50%">
+<td width="100%">
 
 ### 🌱 Learning
 - ⚛️ Advanced React patterns
@@ -92,33 +84,8 @@ const nusaiba = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NusaibaMSarwar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NusaibaMSarwar&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6EC7&currStreakLabel=00D9FF" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NusaibaMSarwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Fun Facts
-
-<div align="center">
-```diff
-+ 🎮 When I'm not coding, I'm probably debugging someone else's code
-+ 🌙 Night owl developer - my best code happens after midnight
-+ 🎵 Code better with music - currently vibing to lofi beats
-+ 📚 Always learning something new in the tech world
-+ ☕ Coffee consumption = Code quality (scientifically proven*)
-```
-
-*Not actually scientifically proven 😄
-
-</div>
 
 ---
 
@@ -137,12 +104,5 @@ const nusaiba = {
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  ### Show some ❤️ by starring some repositories!
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=120&section=footer" />
