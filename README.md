@@ -1,5 +1,18 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NusaibaMSarwar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
+  <!-- Animated Name Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00D9FF&text=NUSAIBA%20SARWAR&height=150&fontSize=50&desc=Full%20Stack%20Developer&descAlignY=75&descAlign=50&animation=fadeIn" />
+  
+  <!-- Code Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=%7B+code+%7D+%7B+create+%7D+%7B+innovate+%7D;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;let+passion+%3D+%22web+development%22+%F0%9F%92%BB;while(alive)+%7B+keep_coding()+%7D+%E2%9C%A8" alt="Typing SVG" />
+  
+  <!-- Pixel Art Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <br/>
