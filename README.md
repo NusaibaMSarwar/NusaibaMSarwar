@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="1000">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%3C+Hello+World+%2F%3E;I'm+Nusaiba+Sarwar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Fueled+by+Coffee+%E2%98%95+and+Code+%F0%9F%92%BB;Debugging+Life+One+Error+at+a+Time+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%3C+Hello+World+%2F%3E;I'm+Nusaiba+Sarwar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Turning+Ideas+into+Reality+%E2%9C%A8;Let's+Build+Something+Amazing!" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
