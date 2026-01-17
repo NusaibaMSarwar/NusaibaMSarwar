@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="1000">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%3C+Hello+World+%2F%3E;I'm+Nusaiba+Sarwar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Turning+Ideas+into+Reality+%E2%9C%A8;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=100&lines=>>+Access+Granted;>>+Developer%3A+Nusaiba+Sarwar;>>+Role%3A+Full+Stack+Developer;>>+Specialization%3A+MERN+Stack;>>+Status%3A+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
