@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1000">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=100&lines=>>+System+Online...;>>+Nusaiba_Sarwar.exe;>>+Full_Stack_Developer;>>+Status%3A+Coding+Mode+%E2%9C%85;>>+Mission%3A+Build+Epic+Apps+%F0%9F%9A%80" alt="Typing SVG" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NusaibaMSarwar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
 </div>
 
 <br/>
