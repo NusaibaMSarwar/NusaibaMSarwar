@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nusaiba;Full+Stack+Developer;Let's+Build+Together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nusaiba;Final+Year+CSE+Student;Full+Stack+Developer;Open+to+Remote+Internships!" alt="Typing SVG" />
   </h1>
   
   <p>
@@ -26,11 +26,25 @@
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
 ```javascript
 const nusaiba = {
     location: "Chattogram, Bangladesh 🇧🇩",
-    role: "Full Stack Web Developer",
-    currentFocus: ["Full Stack", "REST APIs", "Database Design"],
+    education: "Final Year CSE Student",
+    role: "Full Stack Developer",
+    currentFocus: [
+        "React",
+        "Node.js",
+        "Django",
+        "REST APIs",
+        "Database Design"
+    ],
+    currentlyLearning: [
+        "Flutter",
+        "Dart",
+        "PostgreSQL",
+        "Django REST Framework"
+    ],
     funFact: "I turn ☕ into </code>",
     motto: "Debug it till you make it! 🐛➡️✨",
     lifeGoal: "Build products that make a difference 🚀"
@@ -47,11 +61,17 @@ const nusaiba = {
 <tr>
 <td width="100%">
 
+### 🚀 Building
+- 🛒 Electronics E-commerce Platform
+- 🔐 Secure Authentication Systems
+- 🌐 RESTful APIs
+
 ### 🌱 Learning
-- ⚛️ Advanced React patterns
-- 🔐 JWT Authentication
-- 🗄️ Database optimization
-- 🎨 Modern UI/UX design
+- 🐍 Django & Django REST Framework
+- 📱 Flutter & Dart
+- 🐘 PostgreSQL
+- ⚛️ Advanced React Concepts
+- 🎨 Modern UI/UX Design
 
 </td>
 </tr>
@@ -59,27 +79,38 @@ const nusaiba = {
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
 ### 🎨 Frontend Magic
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Power
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Database Wizardry
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🛠️ Tools & More
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -90,25 +121,19 @@ const nusaiba = {
 
 ---
 
-
-
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nusaibamdsarwar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NusaibaMSarwar)
 
-**💬 Open to collaborations and interesting projects!**
+**💬 Open to collaborations, freelance work, and internship opportunities!**
 
 <img src="https://komarev.com/ghpvc/?username=NusaibaMSarwar&color=00D9FF&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
 ---
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=120&section=footer" />
